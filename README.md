@@ -1,4 +1,4 @@
-# ButaGo
+# Buta!Go!
     
     A game about raising a naughty piggy, Butata.
     
