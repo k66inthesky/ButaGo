@@ -1,7 +1,7 @@
 # Buta!Go!
 <p float="left">
-<img src="ButaGo1.png" width="500"/>
-<img src="ButaGo2.png" width="500"/>
+<img src="ButaGo1.png" width="300"/>
+<img src="ButaGo2.png" width="300"/>
 <p>
 
     A game about raising a naughty piggy, Butata.
